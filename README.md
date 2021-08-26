@@ -1,2 +1,2 @@
 # sitecode-1
-Site curso HTML pela Fundação Bradesco
+Site curso HTML e CSS na prática pela Fundação Bradesco
